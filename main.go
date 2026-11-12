@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("Hello, World!")
+	fmt.Println("Сегодня я изучила, как компилируется и запускается Go-код.")
+	fmt.Println("Также я научилась инициализировать модуль Go.")
 }
